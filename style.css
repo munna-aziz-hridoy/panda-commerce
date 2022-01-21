@@ -1,0 +1,47 @@
+.slider-container {
+  margin-top: 150px;
+  background-color: #feeae9;
+  border-radius: 15px;
+}
+
+.highlight {
+  color: #ff589b;
+}
+
+.btn-pink {
+  margin-top: 1rem;
+  background: linear-gradient(180deg, #ff589b 0%, #ff4b92 100%);
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: #feeae9;
+}
+
+.category {
+  border-radius: 15px;
+}
+
+.watch {
+  background: hsla(52, 100%, 50%, 0.8);
+}
+
+.bag {
+  background: rgba(0, 130, 255, 0.8);
+}
+
+.shoes {
+  background: rgba(255, 100, 105, 0.8);
+}
+
+.navbar-toggler:focus {
+  box-shadow: none;
+}
+
+.product-item {
+  box-shadow: 10px 10px 15px 3px rgba(0, 0, 0, 0.15);
+  border-radius: 15px;
+}
+
+.product-title {
+  text-shadow: 10px 15px 13px rgba(0, 0, 0, 0.2);
+}
